@@ -1,0 +1,4 @@
+baseURL = 'https://zhyg.github.io/'
+languageCode = 'zh-cn'
+title = "Yangong's blog"
+theme = 'DoIt'
